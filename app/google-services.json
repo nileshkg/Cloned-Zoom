@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128466199681",
+    "project_id": "clonedzoom",
+    "storage_bucket": "clonedzoom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128466199681:android:894b86754077bb583ad980",
+        "android_client_info": {
+          "package_name": "com.app.clonedzoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128466199681-g6anaghtns0ojsprv45ig296g22g7qn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.clonedzoom",
+            "certificate_hash": "23c9a55b216ffd52f80321cc1d8f0d9fe7ac1dfe"
+          }
+        },
+        {
+          "client_id": "128466199681-blcu8mrigo1gi1fe1tcndkm4g0vqlrtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3h96X-QRPZYSmKi80dgXaeAhJZeguZEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128466199681-blcu8mrigo1gi1fe1tcndkm4g0vqlrtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
