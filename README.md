@@ -1,4 +1,5 @@
-# Cloned-Zoom
+# Zoom Clone
+Used Quickblox SDK for chats and video calls
 ## Screenshots
 <div>
 <img src="https://user-images.githubusercontent.com/67891339/148371207-35f4a917-9260-4227-a548-d875bb32a88c.jpg" align=left width=20% height=30%>
